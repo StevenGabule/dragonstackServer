@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning pern in this guy",
+  "main": "index.js",
+  "scripts": {
+  	"dev": "nodemon index",
+  	"start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john paul gabule",
+  "license": "ISC"
+}

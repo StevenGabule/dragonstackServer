@@ -1,5 +1,0 @@
-class Generation {
-	constructor() {
-		
-	}
-}
